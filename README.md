@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This a an assignment for the Data Science Toolbox on Coursera
+This is an assignment for the Data Science Toolbox on Coursera
